@@ -14,7 +14,7 @@ class Macaco:
 
 
     def mostrar_bucho(self):
-        f'{self.nome} comeu {self.bucho}'
+        return f'{self.nome} comeu {self.bucho}'
 
 
 
