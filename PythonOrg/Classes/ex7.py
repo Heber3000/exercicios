@@ -61,7 +61,7 @@ if __name__ == '__main__':
     print(robson.retornar_nome())
     robson.fome = 90
     print(robson.retornar_fome())
-    robson.saude = 90
+    robson.saude = 100
     print(robson.retornar_saude())
     print(robson.humor())
 
