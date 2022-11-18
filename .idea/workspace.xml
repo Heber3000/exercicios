@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc5a484f-392d-4b8c-8478-08fa456cb9a7" name="Changes" comment="treinando estruturas de repetição">
-      <change afterPath="$PROJECT_DIR$/PythonOrg/Classes/ex4.py" afterDir="false" />
+    <list default="true" id="bc5a484f-392d-4b8c-8478-08fa456cb9a7" name="Changes" comment="classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +46,8 @@
       <recent name="$PROJECT_DIR$/GeekUniversity/Funcoes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex4 (1)">
-    <configuration name="ex2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex7">
+    <configuration name="contarcaracter_dicionario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercicios2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,11 +55,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GeekUniversity/repetição" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GeekUniversity/repetição/ex2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/contarcaracter_dicionario.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="contarcaracter_lista" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercicios2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GeekUniversity/repetição" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GeekUniversity/repetição/ex3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/contarcaracter_lista.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex4 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercicios2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,7 +101,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOrg/Classes/ex4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOrg/Classes/ex5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex6 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercicios2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GeekUniversity/repetição" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOrg/Classes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GeekUniversity/repetição/ex4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOrg/Classes/ex6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercicios2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GeekUniversity/repetição" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOrg/Classes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GeekUniversity/repetição/ex6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOrg/Classes/ex7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex4 (1)" />
-        <item itemvalue="Python.ex6" />
-        <item itemvalue="Python.ex4" />
-        <item itemvalue="Python.ex3 (1)" />
-        <item itemvalue="Python.ex2 (1)" />
+        <item itemvalue="Python.ex7" />
+        <item itemvalue="Python.ex6 (1)" />
+        <item itemvalue="Python.contarcaracter_dicionario" />
+        <item itemvalue="Python.contarcaracter_lista" />
+        <item itemvalue="Python.ex5" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +192,42 @@
       <option name="project" value="LOCAL" />
       <updated>1668689684960</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="treinando estruturas de repetição">
+      <created>1668701974969</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668701974969</updated>
+    </task>
+    <task id="LOCAL-00005" summary="treinando classes">
+      <created>1668701998198</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668701998198</updated>
+    </task>
+    <task id="LOCAL-00006" summary=" classes">
+      <created>1668711492922</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668711492922</updated>
+    </task>
+    <task id="LOCAL-00007" summary="exercicio de contagem de caracter usando lista e dicionário">
+      <created>1668719909033</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668719909033</updated>
+    </task>
+    <task id="LOCAL-00008" summary="classes">
+      <created>1668773927608</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668773927608</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,6 +245,10 @@
     <MESSAGE value="Treinando Classes" />
     <MESSAGE value="mais exercicios" />
     <MESSAGE value="treinando estruturas de repetição" />
-    <option name="LAST_COMMIT_MESSAGE" value="treinando estruturas de repetição" />
+    <MESSAGE value="treinando classes" />
+    <MESSAGE value=" classes" />
+    <MESSAGE value="exercicio de contagem de caracter usando lista e dicionário" />
+    <MESSAGE value="classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="classes" />
   </component>
 </project>
