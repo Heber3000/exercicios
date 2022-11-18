@@ -19,7 +19,7 @@ class Tv:
             return f'{self.volume}'
 
     def diminuir_volume(self, entrada):
-        self.volume += entrada
+        self.volume -= entrada
         if self.volume <= 0:
             return f'Não pode ser negativo'
         else:
@@ -31,7 +31,7 @@ if __name__ == '__main__':
 
     print(ex.mudar_canal(6))
     print(ex.aumentar_volume(50))
-    print(ex.diminuir_volume(-100))
+    print(ex.diminuir_volume(2))
 
 
 
