@@ -13,11 +13,14 @@ class Macaco:
         self.bucho.append(alimentos)
 
 
-    def bucho(self):
-        return f'\n{self.nome}:{self.bucho}'
+    def mostrar_bucho(self):
+        f'{self.nome} comeu {self.bucho}'
+
+
 
     def digerir(self):
-        print(f'\n{self.nome}:{self.bucho.pop()}')
+        print(f'\n{self.nome} digeriu a {self.bucho.pop()}')
+        print(self.bucho)
 
 
 if __name__ == '__main__':
@@ -29,14 +32,16 @@ if __name__ == '__main__':
     macaco1.comer('banana')
     macaco1.comer('maça')
     macaco1.comer('uva')
+    macaco1.comer(macaco2.nome)
 
-    print(macaco1.digerir())
+    print(macaco1.mostrar_bucho())
+
 
     macaco2.comer('Pera')
     macaco2.comer('mandioca')
     macaco2.comer('batata')
 
-    print(macaco1.bucho)
+
 
 
 
