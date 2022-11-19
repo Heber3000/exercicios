@@ -21,6 +21,6 @@ class Funcionario:
 
 
 if __name__ == '__main__':
-    robson = Funcionario('Robson',2000)
+    robson = Funcionario('Robson',20000)
     print(robson.retornar_salario())
     print(robson.aumenta_salario(20))
