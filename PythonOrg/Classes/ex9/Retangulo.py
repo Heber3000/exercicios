@@ -1,8 +1,8 @@
 class Retangulo:
-    def __init__(self,largura,altura,centro):
+    def __init__(self,largura,altura):
         self.largura = largura
         self.altura = altura
-        self.centro = centro
+
 
     def imprimir(self):
         return self.largura, self.altura
@@ -11,5 +11,5 @@ class Retangulo:
         return self.largura*self.altura
 
     def mostrar_centro(self):
-        return self.centro
+        return self.largura/2,self.altura/2
 
