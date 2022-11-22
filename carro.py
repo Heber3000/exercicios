@@ -1,3 +1,29 @@
+class Carro:
+    def __init__(self,motor,direcao):
+        self.motor = motor
+        self.direcao = direcao
+
+    def calcular_velocidade(self):
+        return self.motor.velocidade
+
+    def acelerar(self):
+        self.motor.acelerar()
+
+    def frear(self):
+        self.motor.frear()
+
+    def calculo_do_sentido(self):
+        return self.direcao.valor
+
+    def girar_direita(self):
+        self.direcao.girar_direita()
+
+    def girar_esquerda(self):
+        self.direcao.girar_esquerda()
+
+
+
+
 
 class Motor:
     def __init__(self,velocidade):
@@ -28,43 +54,38 @@ if __name__ == '__main__':
     print(motor.velocidade)
 
 
+NORTE = 'Norte'
+SUL = 'Sul'
+LESTE = 'Leste'
+OESTE = 'Oeste'
+
+
 
 
 class Direcao:
-    def __init__(self,valor):
-        self.valor = valor
+    rotacao_a_direita = {NORTE: LESTE, LESTE: SUL, SUL: OESTE, OESTE: NORTE
+                         }
+    rotacao_a_esquerda = {NORTE: OESTE, OESTE: SUL, SUL: LESTE, LESTE: OESTE
+                         }
+
+
+
+
+    def __init__(self):
+        self.valor = NORTE
 
 
     def girar_direita(self):
-        if self.valor == 'Norte':
-            self.valor = 'Oeste'
-        elif self.valor == 'Oeste':
-            self.valor = 'Sul'
-        elif self.valor == 'Sul':
-            self.valor = 'Leste'
-        else:
-            self.valor = 'Norte'
+       return  self.rotacao_a_direita[self.valor]
 
 
     def girar_esquerda(self):
-        if self.valor == 'Norte':
-            self.valor = 'Leste'
-        elif self.valor == 'Leste':
-            self.valor = 'Sul'
-        elif self.valor == 'Sul':
-            self.valor = 'Oeste'
-        else:
-            self.valor = 'Norte'
+        return self.rotacao_a_esquerda[self.valor]
+
 
 print()
 
 if __name__ == '__main__':
-    direcao = Direcao('Norte')
+    direcao = Direcao()
     direcao.girar_direita()
-    print(direcao.valor)
-    direcao.girar_direita()
-    print(direcao.valor)
-    direcao.girar_direita()
-    print(direcao.valor)
-    direcao.girar_direita()
-    print(direcao.valor)
+    print(direcao.girar_direita())
