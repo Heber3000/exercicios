@@ -1,8 +1,7 @@
 class Tv:
-    def __init__(self,modelo,canal,volume):
+    def __init__(self,modelo,controle):
         self.modelo = modelo
-        self.canal = canal
-        self.volume = volume
+        self.controle = controle
 
     def set_modelo(self,modelo):
         self.modelo = modelo
@@ -11,22 +10,20 @@ class Tv:
         return self.modelo
 
     def aumentar_volume(self):
-         self.volume.aumentar_volume()
+         self.controle.aumentar_volume()
 
     def diminuir_volume(self):
-        self.volume.diminuir_volume()
+        self.controle.diminuir_volume()
 
     def mudar_canal(self):
-        return self.canal.mudar_de_canal
+        return self.controle.mudar_de_canal
 
     def aumentar_canal(self):
-        self.canal.aumentar_numero_canal()
+        self.controle.aumentar_numero_canal()
 
     def diminuir_canal(self):
-        self.canal.diminuir_numero_canal()
+        self.controle.diminuir_numero_canal()
 
-    def consulta(self):
-        return f'Modelo:{self.modelo}\nCanal:{self.canal}\nVolume:{self.volume}'
 
 
 
@@ -59,10 +56,10 @@ class ControleRemoto:
         return f'Canal:{self.canal}\nvolume{self.volume}'
 
 
-if __name__ == '__main__':
-    ex = Tv('TCL',5,0)
-    ex.aumentar_volume()
-    print(ex.consulta())
+
+
+
+    print(ex.consulta)
 
 
 
