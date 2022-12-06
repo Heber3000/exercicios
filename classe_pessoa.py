@@ -20,11 +20,22 @@ class Mulher(Pessoa):
         cumprimentar_da_classe_pessoa=super().cumprimentar()
         return f'{cumprimentar_da_classe_pessoa}, beijo no rosto'
 
+class Mutante(Pessoa):
+    olhos = 3
+    def cumprimentar(self):
+        cumprimentar_da_classe_pessoa=super().cumprimentar()
+        return f'{cumprimentar_da_classe_pessoa}, cumprimento mutante'
+
+
+
 if __name__ == '__main__':
     paulo = Homem('Paulo',20)
     print(paulo.cumprimentar())
     rosa = Mulher('Rosa',23)
     print(rosa.cumprimentar())
+    mutante = Mutante('Mt',23)
+    print(mutante.olhos)
+    print(mutante.cumprimentar())
 
 
 
