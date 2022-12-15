@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc5a484f-392d-4b8c-8478-08fa456cb9a7" name="Changes" comment="classes">
+    <list default="true" id="bc5a484f-392d-4b8c-8478-08fa456cb9a7" name="Changes" comment="treinando sobreescrita de atributos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classe_pessoa.py" beforeDir="false" afterPath="$PROJECT_DIR$/classe_pessoa.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +43,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PythonOrg/Classes/ex9" />
+      <recent name="$PROJECT_DIR$/PythonOrg/Classes" />
       <recent name="$PROJECT_DIR$/GeekUniversity/coleções/parte1" />
       <recent name="$PROJECT_DIR$/GeekUniversity/Funcoes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex7">
-    <configuration name="contarcaracter_dicionario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.classe_pessoa">
+    <configuration name="cadastro_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercicios2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,7 +62,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/contarcaracter_dicionario.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cadastro_dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="contarcaracter_lista" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="classe_cliente" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercicios2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,7 +83,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/contarcaracter_lista.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classe_cliente.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="classe_pessoa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercicios2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOrg/Classes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOrg/Classes/ex5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classe_pessoa.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex6 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercicios2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOrg/Classes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GeekUniversity/Classe_Orientação_objeto" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOrg/Classes/ex6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GeekUniversity/Classe_Orientação_objeto/ex4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex_listcomprehension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercicios2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonOrg/Classes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonOrg/Classes/ex7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_listcomprehension.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex7" />
-        <item itemvalue="Python.ex6 (1)" />
-        <item itemvalue="Python.contarcaracter_dicionario" />
-        <item itemvalue="Python.contarcaracter_lista" />
-        <item itemvalue="Python.ex5" />
+        <item itemvalue="Python.classe_pessoa" />
+        <item itemvalue="Python.cadastro_dict" />
+        <item itemvalue="Python.ex_listcomprehension" />
+        <item itemvalue="Python.classe_cliente" />
+        <item itemvalue="Python.ex4" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +230,203 @@
       <option name="project" value="LOCAL" />
       <updated>1668773927608</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="classes">
+      <created>1668774149301</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668774149301</updated>
+    </task>
+    <task id="LOCAL-00010" summary="classes">
+      <created>1668774172970</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668774172970</updated>
+    </task>
+    <task id="LOCAL-00011" summary="classes">
+      <created>1668780887407</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668780887407</updated>
+    </task>
+    <task id="LOCAL-00012" summary="classes">
+      <created>1668782180779</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1668782180779</updated>
+    </task>
+    <task id="LOCAL-00013" summary="classes">
+      <created>1668782365513</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1668782365513</updated>
+    </task>
+    <task id="LOCAL-00014" summary="estrutura de repetição">
+      <created>1668812363689</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1668812363689</updated>
+    </task>
+    <task id="LOCAL-00015" summary="estrutura de repetição">
+      <created>1668864009398</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1668864009398</updated>
+    </task>
+    <task id="LOCAL-00016" summary="estrutura de repetição">
+      <created>1668864847301</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1668864847301</updated>
+    </task>
+    <task id="LOCAL-00017" summary="classes">
+      <created>1668866071763</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1668866071763</updated>
+    </task>
+    <task id="LOCAL-00018" summary="classes">
+      <created>1668866288056</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1668866288056</updated>
+    </task>
+    <task id="LOCAL-00019" summary="estruturas de repetição">
+      <created>1668954793374</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1668954793374</updated>
+    </task>
+    <task id="LOCAL-00020" summary="estruturas de repetição">
+      <created>1668955093593</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1668955093593</updated>
+    </task>
+    <task id="LOCAL-00021" summary="estruturas de repetição">
+      <created>1668968776862</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1668968776862</updated>
+    </task>
+    <task id="LOCAL-00022" summary="estruturas de repetição">
+      <created>1668968984745</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1668968984745</updated>
+    </task>
+    <task id="LOCAL-00023" summary="estruturas de repetição">
+      <created>1668970679179</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1668970679179</updated>
+    </task>
+    <task id="LOCAL-00024" summary="classes">
+      <created>1669138664480</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1669138664480</updated>
+    </task>
+    <task id="LOCAL-00025" summary="classes">
+      <created>1669153151561</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1669153151561</updated>
+    </task>
+    <task id="LOCAL-00026" summary="classes">
+      <created>1669202712299</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1669202712299</updated>
+    </task>
+    <task id="LOCAL-00027" summary="classes">
+      <created>1669207087199</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1669207087199</updated>
+    </task>
+    <task id="LOCAL-00028" summary="classes">
+      <created>1669208239216</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1669208239216</updated>
+    </task>
+    <task id="LOCAL-00029" summary="classes utilizando o conceito de herança e sobreescrita">
+      <created>1669312255676</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1669312255676</updated>
+    </task>
+    <task id="LOCAL-00030" summary="classes utilizando o conceito de herança e sobreescrita">
+      <created>1669313067695</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1669313067695</updated>
+    </task>
+    <task id="LOCAL-00031" summary="classes utilizando o conceito de herança">
+      <created>1669314258341</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1669314258341</updated>
+    </task>
+    <task id="LOCAL-00032" summary="classe">
+      <created>1669657231818</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1669657231818</updated>
+    </task>
+    <task id="LOCAL-00033" summary="list comprehension">
+      <created>1669749659026</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1669749659026</updated>
+    </task>
+    <task id="LOCAL-00034" summary="dicionario">
+      <created>1669988783538</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1669988783538</updated>
+    </task>
+    <task id="LOCAL-00035" summary="treinando sobreescrita de metodo">
+      <created>1670005300362</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1670005300362</updated>
+    </task>
+    <task id="LOCAL-00036" summary="treinando sobreescrita de atributos">
+      <created>1670335400230</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1670335400230</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,7 +447,26 @@
     <MESSAGE value="treinando classes" />
     <MESSAGE value=" classes" />
     <MESSAGE value="exercicio de contagem de caracter usando lista e dicionário" />
+    <MESSAGE value="estrutura de repetição" />
+    <MESSAGE value="estruturas de repetição" />
     <MESSAGE value="classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="classes" />
+    <MESSAGE value="classes utilizando o conceito de herança e sobreescrita" />
+    <MESSAGE value="classes utilizando o conceito de herança" />
+    <MESSAGE value="classe" />
+    <MESSAGE value="list comprehension" />
+    <MESSAGE value="dicionario" />
+    <MESSAGE value="treinando sobreescrita de metodo" />
+    <MESSAGE value="treinando sobreescrita de atributos" />
+    <option name="LAST_COMMIT_MESSAGE" value="treinando sobreescrita de atributos" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GeekUniversity/repetição/ex13.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
