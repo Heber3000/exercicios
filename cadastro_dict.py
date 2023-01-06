@@ -1,11 +1,15 @@
-perguntas = ('Nome','telefone','email')
+def cadastrar():
+    perguntas = {'nome','telefone','email'}
 
-dict ={}
+    dict = {}
+    dados = []
 
+    for i in range(2):
+        print(f'Cadastro:{1+i}')
+        for resposta in perguntas:
+            dict[resposta] = input(f'{resposta}:')
+        dados.append(dict)
 
-for i in range(2):
-    print(f'Cadastro: {1+i}')
-    for resposta in perguntas:
-        dict[resposta] = input(f'{resposta}:')
+    return dados
 
-print(dict)
+print(cadastrar())
